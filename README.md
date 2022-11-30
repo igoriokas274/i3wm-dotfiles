@@ -5,3 +5,7 @@ dot files for Manjaro i3:
 
 # Audacios
 eq.preset - path: /home/[user]/.config/audacious/eq.preset
+
+# .Xresources (terminal transparency)
+edit line
+<code>URxvt.background:                 [65]#222D31</code>
