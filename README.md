@@ -10,6 +10,6 @@ eq.preset - path: /home/[user]/.config/audacious/eq.preset
 edit line
 <code>URxvt.background:                 [65]#222D31</code>
 
-#[GXKB](https://github.com/zen-tools/gxkb) X11 keyboard layout indicator and switcher
-
+# [GXKB](https://github.com/zen-tools/gxkb)
+X11 keyboard layout indicator and switcher
 - config - path: /home/[user]/.config/gxkb/gxkb.cfg
